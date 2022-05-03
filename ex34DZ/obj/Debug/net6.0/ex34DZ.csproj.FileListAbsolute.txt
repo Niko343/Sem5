@@ -1,0 +1,15 @@
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.csproj.AssemblyReference.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.AssemblyInfoInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.AssemblyInfo.cs
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\bin\Debug\net6.0\ex34DZ.exe
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\bin\Debug\net6.0\ex34DZ.deps.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\bin\Debug\net6.0\ex34DZ.runtimeconfig.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\bin\Debug\net6.0\ex34DZ.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\bin\Debug\net6.0\ex34DZ.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\refint\ex34DZ.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ex34DZ.genruntimeconfig.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex34DZ\obj\Debug\net6.0\ref\ex34DZ.dll

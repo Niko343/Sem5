@@ -1,0 +1,15 @@
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.csproj.AssemblyReference.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.AssemblyInfoInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.AssemblyInfo.cs
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\bin\Debug\net6.0\ex35.exe
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\bin\Debug\net6.0\ex35.deps.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\bin\Debug\net6.0\ex35.runtimeconfig.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\bin\Debug\net6.0\ex35.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\bin\Debug\net6.0\ex35.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\refint\ex35.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ex35.genruntimeconfig.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem5\ex35\obj\Debug\net6.0\ref\ex35.dll
